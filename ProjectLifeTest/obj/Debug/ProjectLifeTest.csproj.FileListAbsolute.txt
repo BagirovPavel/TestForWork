@@ -1,0 +1,9 @@
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLifeTest\bin\Debug\ProjectLifeTest.dll
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLifeTest\bin\Debug\ProjectLifeTest.pdb
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLifeTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLifeTest\bin\Debug\ProjectLife.exe
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLifeTest\bin\Debug\ProjectLife.pdb
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLifeTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLifeTest\obj\Debug\ProjectLifeTest.csprojResolveAssemblyReference.cache
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLifeTest\obj\Debug\ProjectLifeTest.dll
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLifeTest\obj\Debug\ProjectLifeTest.pdb

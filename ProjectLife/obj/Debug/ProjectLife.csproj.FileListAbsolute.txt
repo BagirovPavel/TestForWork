@@ -1,0 +1,16 @@
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLife\bin\Debug\ProjectLife.exe.config
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLife\obj\Debug\ProjectLife.csprojResolveAssemblyReference.cache
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLife\obj\Debug\MainWindow.g.cs
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLife\obj\Debug\App.g.cs
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLife\obj\Debug\ProjectLife_MarkupCompile.cache
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLife\obj\Debug\ProjectLife_MarkupCompile.lref
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLife\bin\Debug\ProjectLife.exe
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLife\bin\Debug\ProjectLife.pdb
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLife\obj\Debug\MainWindow.baml
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLife\obj\Debug\ProjectLife.g.resources
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLife\obj\Debug\ProjectLife.Properties.Resources.resources
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLife\obj\Debug\ProjectLife.csproj.GenerateResource.Cache
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLife\obj\Debug\ProjectLife.exe
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLife\obj\Debug\ProjectLife.pdb
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLife\obj\Debug\LoadWindow.g.cs
+c:\users\zedakon\documents\visual studio 2015\Projects\ProjectLife\ProjectLife\obj\Debug\LoadWindow.baml
